@@ -1,0 +1,4 @@
+*.sh
+logs
+cache
+*.md
